@@ -1,4 +1,5 @@
 import HeroSection from '@/components/HeroSection.jsx'
+import TopContestantSection from '@/components/TopContestantSection.jsx'
 import React from 'react'
 
 const page = () => {
@@ -6,6 +7,7 @@ const page = () => {
     <main className='h-screen '>
       
           <HeroSection/>
+          <TopContestantSection/>
 
 
     </main>
