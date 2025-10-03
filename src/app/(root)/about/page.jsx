@@ -1,9 +1,13 @@
+
 import React from 'react'
 
 const page = () => {
-  return (
-    <div>vote</div>
-  )
+    return (
+        <>
+        <h>hi</h>
+        
+        </>
+    )
 }
 
 export default page
