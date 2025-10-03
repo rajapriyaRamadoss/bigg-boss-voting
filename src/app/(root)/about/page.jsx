@@ -1,10 +1,13 @@
 
+import AboutSection from '@/components/about/AboutSection'
+import InfoPage from '@/components/about/InfoPage'
 import React from 'react'
 
 const page = () => {
     return (
         <>
-        <h>hi</h>
+       <AboutSection/>
+       <InfoPage/>
         
         </>
     )
